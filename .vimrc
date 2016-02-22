@@ -1,9 +1,9 @@
-# autocomplete like zsh/fish
+" autocomplete like zsh/fish
 set wildmenu
 set wildmode=full
 
-# command history
+" command history
 set history=500
 
-# highlight all search terms
+" highlight all search terms
 set hlsearch
