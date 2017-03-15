@@ -1,0 +1,5 @@
+alias "gs"="git status"
+alias "gl"="git log"
+alias "gcl"="git checkout -"
+alias "gml"="git merge -"
+alias "poo"="start *.sln"
