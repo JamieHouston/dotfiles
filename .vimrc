@@ -1,9 +1,2 @@
-" autocomplete like zsh/fish
-set wildmenu
-set wildmode=full
-
-" command history
-set history=500
-
-" highlight all search terms
-set hlsearch
+set number " show line numbers in vim 
+set relativenumber " show relative line numbers
