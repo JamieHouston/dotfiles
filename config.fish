@@ -1,3 +1,4 @@
+# Move this to ~/.config/fish/config.fish
 alias "gs"="git status"
 alias "gl"="git log"
 alias "gcl"="git checkout -"
